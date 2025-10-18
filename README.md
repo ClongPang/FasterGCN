@@ -4,7 +4,7 @@ FasterGCN: Accelerating and Enhancing Graph Convolutional Network  for Recommend
 
 This project provides the yelp2018 dataset for training and testing. 
 
-Please download the data from the [Baidu Cloud:Yelp2018](https://pan.baidu.com/s/1I7sEa1opYfFr-TboKuUqTg?pwd=9y42)
+Please download the data from the [Baidu Cloud:Yelp2018](https://pan.baidu.com/s/1pHvMCGoZR4bYovnCnfCT5Q?pwd=4rw9)
 
 Then, place the Data file in `/Data/Yelp2018/`
 ```
