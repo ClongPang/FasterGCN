@@ -10,7 +10,8 @@ Then, place the Data file in `/Data/Yelp2018/`
 ```
 ├─ Data/: 
     ├── yelp2018/:
-        ├── test_data.npy           #test dataset,the number of negative samples is 1500
+        ├── test_full_neg_data.npy           #test dataset
+        ├── test_full_neg_data_pos_len.npy           #The number of positive samples for each user in the test set
         ├── val_data.npy            #val dataset,the number of negative samples is 1500
         ├── train_user_pos_neg.npy  # val dataset(user,pos_item,neg_item)
         ├── train_log_i             # The weight file of the interaction edge
